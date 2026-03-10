@@ -1,3 +1,3 @@
-# University of Colorado Boulder - Data Structures and Algorithms
+# Data Structures and Algorithms
 
-This repository contains coursework, assignments, and projects from the Data Structures and Algorithms course at the University of Colorado Boulder.
+This repository contains code of coursework based on Data Strctures and Algorithms and problems solved in Neetcode150
