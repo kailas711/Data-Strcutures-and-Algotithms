@@ -1,3 +1,68 @@
-# Data Structures and Algorithms
+# Data Structures & Algorithms Practice
 
-This repository contains code of coursework based my slef paced Data Strctures and Algorithms coursework from various online sources. This along with problems solved in Neetcode 250 will be archived here 
+A comprehensive practice repository for learning and mastering Data Structures and Algorithms concepts using **Striver's DSA Sheet** as the primary resource.
+
+## About This Repository
+
+This repository contains my personal practice work and implementations following the legendary [Striver's DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2). The code here represents my journey to revise, brush up, and deepen my understanding of fundamental DSA concepts and programming techniques.
+
+## Purpose
+
+- **Revision & Practice**: Strengthen foundational DSA concepts
+- **Implementation**: Hands-on coding of classic algorithms and data structures
+- **Problem Solving**: Practice solving real-world coding problems
+- **Learning Resource**: Reference implementations for future learning
+
+## Repository Structure
+
+```
+├── arrays/                      # Array manipulation and problems
+├── patterns_logical_thinking/   # Pattern printing and logical puzzles
+└── [other DSA topics]          # Additional data structures and algorithms
+```
+
+### Current Topics
+
+- **Arrays**: Fundamental array operations, searching, sorting, and optimization
+- **Patterns & Logical Thinking**: Building logical thinking through pattern-printing problems
+- More topics coming as I progress through Striver's DSA Sheet
+
+## Technologies & Languages
+
+- **Primary Language**: Python
+- **Style**: Clean, readable code with explanatory comments
+- **Format**: Individual files for each problem/concept for easy reference
+
+## How to Use This Repository
+
+1. **Browse by Topic**: Navigate to the relevant directory for the DSA concept you want to explore
+2. **Study the Code**: Each file contains a problem/concept with implementation and comments
+3. **Run Examples**: Execute Python files to see outputs and understand the logic
+4. **Reference**: Use as a quick reference while solving similar problems
+
+## Topics Covered (Progress)
+
+- [x] Basic Patterns & Logical Thinking
+- [x] Recursion Basics (Fibonacci)
+- [ ] Arrays & Strings (in progress)
+- [ ] Sorting Algorithms
+- [ ] Searching Algorithms
+- [ ] Linked Lists
+- [ ] Stacks & Queues
+- [ ] Trees & Graphs
+- [ ] Dynamic Programming
+- [ ] Greedy Algorithms
+- [ ] And more...
+
+## Learning Resource
+
+This work is based on the comprehensive **[Striver's DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)**, which is a free resource that covers DSA from basics to advanced topics.
+
+## License
+
+This project is licensed under the **MIT License** - see LICENSE file for details.
+
+---
+
+Last Updated: July 2026  
+Status: Actively maintained and updated as I progress through Striver's DSA Sheet
