@@ -2,10 +2,6 @@
 
 A comprehensive practice repository for learning and mastering Data Structures and Algorithms concepts using **Striver's DSA Sheet** as the primary resource.
 
-## About This Repository
-
-This repository contains my personal practice work and implementations following the legendary [Striver's DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2). The code here represents my journey to revise, brush up, and deepen my understanding of fundamental DSA concepts and programming techniques.
-
 ## Purpose
 
 - **Revision & Practice**: Strengthen foundational DSA concepts
@@ -27,20 +23,9 @@ This repository contains my personal practice work and implementations following
 - **Patterns & Logical Thinking**: Building logical thinking through pattern-printing problems
 - More topics coming as I progress through Striver's DSA Sheet
 
-## Technologies & Languages
-
 - **Primary Language**: Python
-- **Style**: Clean, readable code with explanatory comments
-- **Format**: Individual files for each problem/concept for easy reference
 
-## How to Use This Repository
-
-1. **Browse by Topic**: Navigate to the relevant directory for the DSA concept you want to explore
-2. **Study the Code**: Each file contains a problem/concept with implementation and comments
-3. **Run Examples**: Execute Python files to see outputs and understand the logic
-4. **Reference**: Use as a quick reference while solving similar problems
-
-## Topics Covered (Progress)
+## Progress
 
 - [x] Basic Patterns & Logical Thinking
 - [x] Recursion Basics (Fibonacci)
@@ -57,12 +42,6 @@ This repository contains my personal practice work and implementations following
 ## Learning Resource
 
 This work is based on the comprehensive **[Striver's DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)**, which is a free resource that covers DSA from basics to advanced topics.
-
-## License
-
-This project is licensed under the **MIT License** - see LICENSE file for details.
-
----
 
 Last Updated: July 2026  
 Status: Actively maintained and updated as I progress through Striver's DSA Sheet
